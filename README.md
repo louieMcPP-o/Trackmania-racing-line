@@ -12,7 +12,7 @@ Works out a racing line from the map's geometry when you load a track, then draw
 - **Yellow**: hold at the grip limit (cornering flat out)
 - **Red**: brake
 
--- Requires Openplanet software to work and unless it gets verified also requires a club susbscription :( sorry --
+# -- Requires Openplanet software to work and unless it gets verified also requires a club susbscription :( sorry --
 
  Install
 
