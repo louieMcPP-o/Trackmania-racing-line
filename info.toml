@@ -1,0 +1,9 @@
+[meta]
+name     = "Racing Line"
+author   = "McPP"
+category = "Overlay"
+version  = "0.2.0"
+blocks   = []
+
+[script]
+dependencies = ["VehicleState", "Camera"]
